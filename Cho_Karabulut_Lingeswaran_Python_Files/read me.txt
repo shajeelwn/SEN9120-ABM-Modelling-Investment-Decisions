@@ -1,0 +1,8 @@
+In the folder, you see the analysis file, namely:
+   - "Adv.Agent-based Modeling - Windpark Investment.ipynb"
+
+In order to open this file, you need to install "Jupyter Notebook" which allows users
+to see the commented python code blocks and run them in sequence.
+
+Also, please make sure that "Pandas" and "Numpy" packages are installed in your computer.
+Otherwise, you cannot run the code successfully.
